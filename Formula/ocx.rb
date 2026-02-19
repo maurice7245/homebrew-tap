@@ -1,7 +1,7 @@
 class Ocx < Formula
   desc "OCX - AI coding tool"
   homepage "https://github.com/kdcokenny/ocx"
-  version "0.1.4"  # Versionsnummer aus dem Release anpassen
+  version "1.4.6"  
 
   on_macos do
     on_arm do
